@@ -1,6 +1,9 @@
-# Python-scripts-for-DJI-Tello
+# DJI-Tello-RAS
 
-Esse repositório é dedicado para fornecer Scripts necessários para iniciantes que estão criando códigos e embarcando em drones DJI Tello.
-Todos os códigos foram escritos em python com a biblioteca djitellopy que disponibilza a interconexão entre o compilador e o minidrone. 
-Além disso, ela facilita a programação com uma linguagem de auto nível para envio dos comandos ao drone.
-Para compilação e upload dos scripts para o drone, foi utilizado o PyCharm com a instalação das bibliotecas pygame, djitellopy e opencv. 
+Esse repositório é destinado para iniciantes que nunca possuíram a oportunidade de conhecer melhor o univeso da robótica aérea com maior facilidade. Por isso, nesse repositório, existe uma coletânea de informações, vídeos e documentação para aprimorar os conhecimentos nesa área utilizando o DJI Tello do E-Robótica, laboratório de Robótica do curso de Engenharia Elétrica da Universidade Federal de Campina Grande (UFCG).
+
+Nesse repositório, irá existir diversos conteúdos desde a modelagem física dos VANTs até a criação de algoritmos para determinados objetivos. Esse repositório é um compendêndio de informações para atuais e futuras pessoas que desejam aprender diferentes conceitos. 
+
+### Algoritmos com Python 🐍
+
+Essa sessão é dedicada para interconexão do Tello com o computador por meio da biblioteca djitellopy que fornece uma conexão simples e fácil para fazer o upload de scripts e embarcar no drone. Para isso, foi utilizado como referência [Drone Programming with Python](https://youtu.be/LmEcyQnfpDA). Além disso, todos os códigos estão no repositório com comentários explicativos e algumas análises. 
