@@ -28,5 +28,6 @@ Nessa sessão estão reunidos alguns repostórios interessantes que podem estuda
 - [Tello & ROS](https://github.com/clydemcqueen/tello_ros).
 - [Tello & Arduino](https://github.com/akshayvernekar/telloArduino).
 - [Detecção de Objetos](https://github.com/dronefreak/dji-tello-object-detection-segmentation).
+
 Por fim, coloco esse vídeo em anexo para aflorar ideias para futuras implementações e uso do minidrone: [Ideias de Projetos](https://youtu.be/wCPuj_iJHmY)
 
