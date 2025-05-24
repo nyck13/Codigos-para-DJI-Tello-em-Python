@@ -1,6 +1,6 @@
 # DJI-Tello-RAS
 
-Esse repositório é destinado para iniciantes que nunca possuíram a oportunidade de conhecer melhor o univeso da robótica aérea com maior facilidade. Por isso, nesse repositório, existe uma coletânea de informações, vídeos e documentação para aprimorar os conhecimentos nesa área utilizando o DJI Tello do E-Robótica, laboratório de Robótica do curso de Engenharia Elétrica da Universidade Federal de Campina Grande (UFCG).
+Esse repositório é destinado para iniciantes que nunca possuíram a oportunidade de conhecer melhor o univeso da robótica aérea com maior facilidade. Por isso, nesse repositório, existe uma coletânea de informações, vídeos e documentação para aprimorar os conhecimentos nessa área utilizando o DJI Tello do E-Robótica, laboratório de Robótica do curso de Engenharia Elétrica da Universidade Federal de Campina Grande (UFCG).
 
 Nesse repositório, irá existir diversos conteúdos desde a modelagem física dos VANTs até a criação de algoritmos para determinados objetivos. Esse repositório é um compendêndio de informações para atuais e futuras pessoas que desejam aprender diferentes conceitos. 
 
@@ -22,9 +22,11 @@ Essa sessão é dedicada para interconexão do Tello com o computador por meio d
 
 É possível utilizar Inteligência Artificial com o DJI Tello. Para realizar essas atividades, é utilizado a playlist [AI Drone with Tello Playlist](https://youtube.com/playlist?list=PLMrmVZVtQTc2su8F2FB_I-lkrv83rUgcI) para entender os conceitos básicos e realizar diferentes aplicações com o minidrone. 
 
-## Outros repositórios 🌎
+## Outros repositórios e ideias 🌎
 
 Nessa sessão estão reunidos alguns repostórios interessantes que podem estudadas para continuação do estudo nessa área com diferentes aplicações, mas utilizando o DJI Tello.
 - [Tello & ROS](https://github.com/clydemcqueen/tello_ros).
 - [Tello & Arduino](https://github.com/akshayvernekar/telloArduino).
 - [Detecção de Objetos](https://github.com/dronefreak/dji-tello-object-detection-segmentation).
+Por fim, coloco esse vídeo em anexo para aflorar ideias para futuras implementações e uso do minidrone: [Ideias de Projetos](https://youtu.be/wCPuj_iJHmY)
+
