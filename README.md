@@ -16,11 +16,22 @@ Para a conexão da maioria desses scripts é utilizado a rede WI-FI para realiza
 
 ## Criando algoritmos com Python 🐍
 
-Essa sessão é dedicada para interconexão do Tello com o computador por meio da biblioteca djitellopy que fornece uma conexão simples e fácil para fazer o upload de scripts e embarcar no drone. Para isso, foi utilizado como referência [Drone Programming with Python](https://youtu.be/LmEcyQnfpDA). A configuração do PyCharm pode ser melhor compreendida ao assistir esse vídeo: [Setup Tello Packages](https://youtu.be/-Mb_FKhRn00). Além disso, todos os códigos desse vídeo estão no repositório com comentários explicativos e algumas análises interessantes. 
+Essa sessão é dedicada para interconexão do Tello com o computador por meio da biblioteca djitellopy que fornece uma conexão simples e fácil para fazer o upload de scripts e embarcar no drone. Para isso, foi utilizado como referência [Drone Programming with Python](https://youtu.be/LmEcyQnfpDA). A configuração do PyCharm pode ser melhor compreendida ao assistir esse vídeo: [Setup Tello Packages](https://youtu.be/-Mb_FKhRn00). Além disso, todos os códigos desse vídeo estão no repositório com comentários explicativos e algumas análises interessantes. Por fim, o seguinte vídeo é um projeto de [Object Tracking](https://youtu.be/vDOkUHNdmKs) com o DJI Tello.
 
 ## Tello com IA 🤖
 
 É possível utilizar Inteligência Artificial com o DJI Tello. Para realizar essas atividades, é utilizado a playlist [AI Drone with Tello Playlist](https://youtube.com/playlist?list=PLMrmVZVtQTc2su8F2FB_I-lkrv83rUgcI) para entender os conceitos básicos e realizar diferentes aplicações com o minidrone. 
+
+## APIs
+
+Nessa sessão existem vários links para diferentes APIs direcionadas para o DJI Tello.
+- [Tello API](https://tellopilots.com/wiki/development/)
+- [DJITelloPy](https://github.com/damiafuentes/DJITelloPy)  
+- [Tello & Python](https://github.com/dji-sdk/Tello-Python)  
+- [Tello & Python](https://bitbucket.org/PingguSoft/pytello/src/master/)  
+- [Tello Controller Package](https://github.com/hanyazou/TelloPy)  
+- [Tello Assync Library](https://github.com/robagar/tello-asyncio)
+
 
 ## Outros repositórios e ideias 🌎
 
