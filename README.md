@@ -16,7 +16,7 @@ Para a conexão da maioria desses scripts é utilizado a rede WI-FI para realiza
 
 ## Criando algoritmos com Python 🐍
 
-Essa sessão é dedicada para interconexão do Tello com o computador por meio da biblioteca djitellopy que fornece uma conexão simples e fácil para fazer o upload de scripts e embarcar no drone. Para isso, foi utilizado como referência [Drone Programming with Python](https://youtu.be/LmEcyQnfpDA). Além disso, todos os códigos desse vídeo estão no repositório com comentários explicativos e algumas análises interessantes. 
+Essa sessão é dedicada para interconexão do Tello com o computador por meio da biblioteca djitellopy que fornece uma conexão simples e fácil para fazer o upload de scripts e embarcar no drone. Para isso, foi utilizado como referência [Drone Programming with Python](https://youtu.be/LmEcyQnfpDA). A configuração do PyCharm pode ser melhor compreendida ao assistir esse vídeo: [Setup Tello Packages](https://youtu.be/-Mb_FKhRn00). Além disso, todos os códigos desse vídeo estão no repositório com comentários explicativos e algumas análises interessantes. 
 
 ## Tello com IA 🤖
 
